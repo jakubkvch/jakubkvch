@@ -1,3 +1,5 @@
+![Banner Image](images/banner.jpg)
+
 # 👋 Hi, I’m Jakub
 
 Once a finance guy — now building frontend systems with the same precision I used to read market data.
