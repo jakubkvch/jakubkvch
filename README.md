@@ -1,37 +1,12 @@
-![Banner Image](images/banner.jpg)
+### Hi, I'm Jakub
 
-# 👋 Hi, I’m Jakub
+Senior Software Engineer focused on frontend, delivering across the full stack. 5+ years building React and TypeScript products used by millions.
 
-Once a finance guy — now building frontend systems with the same precision I used to read market data.
+Most recently, I co-led an AI-assisted migration of a legacy .NET monolith to React and TypeScript in one week, cutting page loads from several seconds to under 500 ms.
 
-I'm a Frontend Software Engineer with a background in applied mathematics and experience in hedge and mutual funds.
+**Stack** · React · TypeScript · Next.js · Vite · TanStack Query · Tailwind CSS · shadcn/ui · Playwright
+**AI** · Claude Code · Cursor · GitHub Copilot · MCP
+**Now** · Building full-stack AI products with Next.js, Node and TypeScript
+**Background** · BSc Applied Mathematics · ex-fund accounting
 
-I specialize in building scalable, performant web applications using React and TypeScript.
-
-### 🔧 Core Tech
-React · TypeScript · Next.js · Tailwind · Chakra UI · TanStack Query
-
-### 📈 Background
-Applied Math · Ex-Finance (Hedge & Mutual Funds) · Data-Driven Problem Solving
-
-### 💡 Interests
-Developer Experience · Scalable Frontend Architecture · AI-powered Tools
-
----
-
-📫 [Connect on LinkedIn](https://linkedin.com/in/jakubkvch)
-
-<!--
-**jakubkvch/jakubkvch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[jakubkvch.com](https://jakubkvch.com) · [LinkedIn](https://linkedin.com/in/jakubkvch) · koch.dev@icloud.com
